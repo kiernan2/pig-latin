@@ -16,4 +16,4 @@ Code: pigLatin("quick")
 Expected Output: "ickquay"
 
 Code: pigLatin("squeal")
-Expected Output: "ealsquay"
+Expected Output: "quealsay"
